@@ -1,8 +1,0 @@
----
-type: entry
-title: Test Publication
-syndicate_to: 'https://brid.gy/publish/bluesky'
-date: '2026-01-23T04:22:15.679Z'
-client_id: 'https://micropub.rocks/'
----
-Hello Fediverse
