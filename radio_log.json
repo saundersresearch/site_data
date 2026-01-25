@@ -163814,5 +163814,2581 @@
     "snr": "-18",
     "type": "CQ",
     "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_022945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EM12"
+  },
+  {
+    "timestamp": "260125_023000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "DM65"
+  },
+  {
+    "timestamp": "260125_023030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "CN85"
+  },
+  {
+    "timestamp": "260125_023100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "DM65"
+  },
+  {
+    "timestamp": "260125_023115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EM12"
+  },
+  {
+    "timestamp": "260125_023130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "CN85"
+  },
+  {
+    "timestamp": "260125_023145",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM12"
+  },
+  {
+    "timestamp": "260125_023245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_023315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_023345",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "FM19"
+  },
+  {
+    "timestamp": "260125_023345",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_023415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "FM19"
+  },
+  {
+    "timestamp": "260125_023415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_023430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_023430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "CN85"
+  },
+  {
+    "timestamp": "260125_023445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-2",
+    "type": "CQ",
+    "grid": "FM19"
+  },
+  {
+    "timestamp": "260125_023445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_023800",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_023800",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "CN85"
+  },
+  {
+    "timestamp": "260125_023830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_023830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_023900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_023930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_023930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "CN85"
+  },
+  {
+    "timestamp": "260125_023930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_024000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_024015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "FM19"
+  },
+  {
+    "timestamp": "260125_024030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_024045",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-1",
+    "type": "CQ",
+    "grid": "FM19"
+  },
+  {
+    "timestamp": "260125_024100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_024130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "FN20"
+  },
+  {
+    "timestamp": "260125_024215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "FM19"
+  },
+  {
+    "timestamp": "260125_024230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_024300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_024345",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_024415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_024430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_024445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-21",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_024500",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024515",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_024700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_024930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_024945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_025015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_025230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "FK90"
+  },
+  {
+    "timestamp": "260125_025600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_025630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_025645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_025700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_025715",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "CM97"
+  },
+  {
+    "timestamp": "260125_025730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_030100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_030100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_030130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_030200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_030400",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_030530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_030600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_030630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_030730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-21",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_031230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_031230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FK90"
+  },
+  {
+    "timestamp": "260125_031300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "FK90"
+  },
+  {
+    "timestamp": "260125_031730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_031830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_032000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_032130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EM20"
+  },
+  {
+    "timestamp": "260125_032200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EL88"
+  },
+  {
+    "timestamp": "260125_032645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_032715",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_032745",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_032815",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_032845",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_032900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_032915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_032945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_033015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_033045",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_033300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "DN70"
+  },
+  {
+    "timestamp": "260125_033330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "DN70"
+  },
+  {
+    "timestamp": "260125_033400",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "DN70"
+  },
+  {
+    "timestamp": "260125_033515",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_033645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "4",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-1",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "3",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034515",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034715",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034845",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "4",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_034945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "2",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_035015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_035045",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "1",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_035115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_035115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_035415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_035445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_035545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_035615",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_035815",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_035845",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_041415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EN82"
+  },
+  {
+    "timestamp": "260125_041545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EN82"
+  },
+  {
+    "timestamp": "260125_041845",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_041915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_041945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_041945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_042015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_042115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_042145",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042145",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM66"
+  },
+  {
+    "timestamp": "260125_042215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042715",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042745",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042815",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042845",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_042945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "FN03"
+  },
+  {
+    "timestamp": "260125_043345",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "FN03"
+  },
+  {
+    "timestamp": "260125_043415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "FN03"
+  },
+  {
+    "timestamp": "260125_043445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FN03"
+  },
+  {
+    "timestamp": "260125_043515",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_043615",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043715",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043745",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043815",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "4",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_043845",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_043915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_043930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "9",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_043945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_044000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "10",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_044030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "8",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044400",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044400",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044500",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-3",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_044530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EM16"
+  },
+  {
+    "timestamp": "260125_044600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044615",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FM28"
+  },
+  {
+    "timestamp": "260125_044630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_044645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "EN91"
+  },
+  {
+    "timestamp": "260125_045000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "6",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_045000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_045030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "9",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_045030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_045100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-1",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_045100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EM95"
+  },
+  {
+    "timestamp": "260125_045130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_045200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_045230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-3",
+    "type": "CQ",
+    "grid": "EM85"
+  },
+  {
+    "timestamp": "260125_050000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_050030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EM88"
+  },
+  {
+    "timestamp": "260125_050315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-21",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_050800",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_050830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_051000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_051030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_051100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_051315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "FN00"
+  },
+  {
+    "timestamp": "260125_051330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_051345",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "FN00"
+  },
+  {
+    "timestamp": "260125_051400",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_051445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_051530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "RF74"
+  },
+  {
+    "timestamp": "260125_051545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "5",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_051615",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "11",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_051900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "RF74"
+  },
+  {
+    "timestamp": "260125_051915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "11",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_051915",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-23",
+    "type": "CQ",
+    "grid": "FN03"
+  },
+  {
+    "timestamp": "260125_052015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_052045",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "10",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052045",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_052115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "9",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_052115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_052145",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_052245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "9",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "11",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_052345",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_052415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_052545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "10",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_052615",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "14",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_052645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "13",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_052815",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "12",
+    "type": "CQ",
+    "grid": "EN71"
+  },
+  {
+    "timestamp": "260125_052830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-3",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_052945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_053100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_053130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_053200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_053215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_053215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FN00"
+  },
+  {
+    "timestamp": "260125_053245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-2",
+    "type": "CQ",
+    "grid": "EL29"
+  },
+  {
+    "timestamp": "260125_053315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-22",
+    "type": "CQ",
+    "grid": "FN00"
+  },
+  {
+    "timestamp": "260125_053330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_053415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "FN00"
+  },
+  {
+    "timestamp": "260125_053500",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-2",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "FN00"
+  },
+  {
+    "timestamp": "260125_053600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-6",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053615",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_053630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "0",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_053730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053745",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-2",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_053745",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_053800",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053800",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_053830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-3",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_053900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EM10"
+  },
+  {
+    "timestamp": "260125_053930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_053945",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_054000",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-8",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_054215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_054230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-1",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_054245",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_054300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "12",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_054315",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_054330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054415",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "8",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_054430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054445",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "8",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_054500",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EN81"
+  },
+  {
+    "timestamp": "260125_054515",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "11",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_054545",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_054645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EN72"
+  },
+  {
+    "timestamp": "260125_054645",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_054700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_054715",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_055015",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-21",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_055045",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "8",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_055115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "10",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_055115",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_055145",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_055145",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_055215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "7",
+    "type": "CQ",
+    "grid": "EM89"
+  },
+  {
+    "timestamp": "260125_055215",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "FN30"
+  },
+  {
+    "timestamp": "260125_055230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_055500",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-21",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_055530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_055630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-22",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_055700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_055930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-23",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_060200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_060200",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-21",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_060400",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_060430",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-20",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_060500",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-24",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_060630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-16",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_060900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_060930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_061030",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_061130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_061630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "RH82"
+  },
+  {
+    "timestamp": "260125_061700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_061730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_061900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_061930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-7",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_062230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_062700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_063100",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_063530",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-18",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_063930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-11",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_064600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_064630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-19",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_064900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-15",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_064930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_070130",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_070300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_070630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-13",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_070730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_070800",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_070830",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_071900",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_071930",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-14",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_072230",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-17",
+    "type": "CQ",
+    "grid": "EJ79"
+  },
+  {
+    "timestamp": "260125_073300",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EM31"
+  },
+  {
+    "timestamp": "260125_073330",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-5",
+    "type": "CQ",
+    "grid": "EM31"
+  },
+  {
+    "timestamp": "260125_073600",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-12",
+    "type": "CQ",
+    "grid": "EM31"
+  },
+  {
+    "timestamp": "260125_073630",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-9",
+    "type": "CQ",
+    "grid": "EM31"
+  },
+  {
+    "timestamp": "260125_073700",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-10",
+    "type": "CQ",
+    "grid": "EM31"
+  },
+  {
+    "timestamp": "260125_073730",
+    "freq": "14.074",
+    "mode": "FT8",
+    "snr": "-4",
+    "type": "CQ",
+    "grid": "EM31"
   }
 ]
